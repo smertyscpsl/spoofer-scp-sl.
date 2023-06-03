@@ -1,2 +1,2 @@
 # spoofer-scp-sl.
-spoofer
+spoofer для scp sl возсожно detect
